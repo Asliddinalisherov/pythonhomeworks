@@ -1,0 +1,5 @@
+sentence = input("Input sentence: ")
+replace = input("Replace: ")
+wit = input("With: ")
+result = sentence.replace(replace,wit)
+print(result)
