@@ -36,7 +36,7 @@ while True:
             print("Employe with this id does not exist!")
     
     elif choice == 4:
-        id = input("Enter employee ID: ")
+        id = input("Enter Employee ID: ")
         f.seek(0)
         found = False
         lines = f.readlines()
