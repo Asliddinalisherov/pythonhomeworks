@@ -1,1 +1,1 @@
-print(__file__)3w
+print(__file__)
